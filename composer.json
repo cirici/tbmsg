@@ -1,14 +1,14 @@
 {
-    "name": "tzookb/tbmsg",
+    "name": "cirici/tbmsg",
     "type": "library",
     "description": "users messaging system",
     "keywords": ["laravel", "php", "messaging", "message-system"],
-    "homepage": "https://github.com/tzookb/tbmsg",
+    "homepage": "https://github.com/cirici/tbmsg",
     "license": "MIT",
     "authors": [
         {
-            "name": "tzookb",
-            "email": "tzookb@gmail.com",
+            "name": "lluc",
+            "email": "lluc.cirici@gmail.com",
             "role": "Developer"
         }
     ],
